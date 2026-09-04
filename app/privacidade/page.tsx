@@ -1,0 +1,3 @@
+export default function Privacidade() {
+  return <main className="legal"><a href="/">← Voltar para o site</a><p className="eyebrow"><span/> Privacidade</p><h1>Seus dados,<br/><em>com respeito.</em></h1><section><h2>Como usamos suas informações</h2><p>Os dados enviados no formulário — nome, telefone, interesse e mensagem — são usados exclusivamente para responder à sua solicitação de atendimento ou orçamento.</p><h2>Armazenamento</h2><p>As solicitações ficam armazenadas em ambiente protegido e acessível apenas à equipe responsável pelo atendimento.</p><h2>Seus direitos</h2><p>Você pode solicitar acesso, correção ou exclusão dos seus dados entrando em contato pelo WhatsApp (15) 99757-4433.</p></section></main>;
+}
